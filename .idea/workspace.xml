@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1726a805-4cf4-4bc8-9bbe-752a817b790a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2719P4jiqr8JQ3quz2twBFnfRsF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1321004" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTestCRM.loginApp">
+    <configuration name="D:/Selenium_java/Java_Demo_API/Framework_Java_Selenium/XMLFiles/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework_Java_Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestCRM" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework_Java_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnautomation.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnautomation.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.learnautomation.testcases.LoginTestCRM" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestCRM.loginApp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework_Java_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnautomation.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnautomation.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.learnautomation.testcases.LoginTestCRM" />
+      <option name="METHOD_NAME" value="loginApp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTestCRM.loginApp" />
+        <item itemvalue="TestNG.D:/Selenium_java/Java_Demo_API/Framework_Java_Selenium/XMLFiles/testng.xml" />
+        <item itemvalue="TestNG.LoginTestCRM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1726a805-4cf4-4bc8-9bbe-752a817b790a" name="Default Changelist" comment="" />
+      <created>1648476699784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648476699784</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Framework_Java_Selenium$D__Selenium_java_Java_Demo_API_Framework_Java_Selenium_XMLFiles_testng_xml.ic" NAME="$PROJECT_DIR$/XMLFiles/testng.xml Coverage Results" MODIFIED="1648486618786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
